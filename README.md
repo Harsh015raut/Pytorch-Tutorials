@@ -1,2 +1,3 @@
-Pytorch Tuts
+Pytorch Tutorial.
+<br>
 Author - Harsh Satyajit Raut
